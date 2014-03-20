@@ -1,4 +1,4 @@
-Timeline Theme for Elgg 1.8
+Timeline Theme with animate icons for Elgg 1.8
 
 This Elgg plugin is a theme built for Elgg 1.8 that will make your site behave like Facebook Timeline.  This theme "timeline_theme" is meant to show the theming capabilities of  Elgg 1.8. engine
 
