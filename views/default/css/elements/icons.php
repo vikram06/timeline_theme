@@ -17,6 +17,23 @@
 	width: 16px;
 	height: 16px;
 	margin: 0 2px;
+     -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+      -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+      box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+     -webkit-border-radius: 100px;
+     -moz-border-radius: 100px;
+     border-radius: 100px;
+     -webkit-transition: all 400ms linear;
+     -moz-transition: all 400ms linear;
+     -o-transition: all 400ms linear;
+     -ms-transition: all 400ms linear;
+     transition: all 400ms linear;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+     -ms-transform: rotate(360deg);
+     transform: rotate(360deg);
+
 }
 .elgg-icon-arrow-left {
 	background-position: 0 -0px;
